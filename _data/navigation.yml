@@ -1,12 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "github.io 관리"
+    url: /sitemap/
+  - title: "책/학습 정리"
+    sublinks:
+      - title: "HonGong_ML_DL"
+        url: /Books/_posts/
+      - title: "Sample Collections"
+        url: /collection-archive/
+  - title: "ipynb 정리"
+    url: /ipynb/_posts/
+
